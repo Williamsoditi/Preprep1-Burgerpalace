@@ -63,4 +63,25 @@ header{
     border: none;
     border-radius: 10px 10px 0px 10px;
     background-color: #f6b400;
+    color: white;
+}
+
+.more{
+    display: flex;
+    justify-content: space-between;
+}
+.moreone{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.moretwo{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px; 
+}
+.morethree{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
 }
