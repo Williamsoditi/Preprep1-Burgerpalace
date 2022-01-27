@@ -163,3 +163,10 @@ header{
 .log span{
     color: #f6b400;
 }
+.closer{
+    display: flex;
+    justify-content: space-between;
+}
+.listyle{
+    list-style-type: none;
+}
