@@ -72,6 +72,7 @@ header{
     text-align: center;
     padding: 9% 5% 5% 5%;
 }
+
 .moreone{
     border-style: solid;
     border-color: black;
@@ -96,4 +97,27 @@ header{
 }
 .menu span{
     color: #f6b400;
+}
+.menucontent{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.menu h2{
+    color: chocolate;
+}
+.dbone{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.dbtwo{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.dbthr{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
 }
