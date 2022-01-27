@@ -121,3 +121,8 @@ header{
     border-color: black;
     border-radius: 10px;
 }
+.menutwo{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
