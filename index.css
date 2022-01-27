@@ -107,17 +107,17 @@ header{
     color: chocolate;
 }
 .dbone{
-    border-style: solid;
+    border-style: none;
     border-color: black;
     border-radius: 10px;
 }
 .dbtwo{
-    border-style: solid;
+    border-style: none;
     border-color: black;
     border-radius: 10px;
 }
 .dbthr{
-    border-style: solid;
+    background: none;
     border-color: black;
     border-radius: 10px;
 }
@@ -126,6 +126,19 @@ header{
     text-align: center;
     justify-content: space-between;
 }
+.dd{
+    display: flex;
+    justify-content: space-between;
+}
 .dd span{
     color: #f6b400;
 }
+.ddimg{
+    width: 600px;
+    height: 600px;
+}
+.ddprop{
+    display: block;
+    padding: 100px;
+    padding-bottom: 50px;
+    font-size: 25px
