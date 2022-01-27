@@ -156,3 +156,10 @@ header{
 .last{
     margin-right: 10em;
 }
+.log{
+    display: flex;
+    font-size: 20px;
+}
+.log span{
+    color: #f6b400;
+}
