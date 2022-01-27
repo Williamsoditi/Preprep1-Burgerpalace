@@ -69,6 +69,8 @@ header{
 .more{
     display: flex;
     justify-content: space-between;
+    text-align: center;
+    padding: 9% 5% 5% 5%;
 }
 .moreone{
     border-style: solid;
@@ -84,4 +86,12 @@ header{
     border-style: solid;
     border-color: black;
     border-radius: 10px;
+}
+
+.menu{
+    text-align: center;
+    border-bottom: #f6b400;
+}
+.menu span{
+    color: #f6b400;
 }
